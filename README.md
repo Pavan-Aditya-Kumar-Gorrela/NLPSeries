@@ -35,6 +35,7 @@ This repository is a **daily hands-on guide** to mastering key NLP topics, tools
 ## 📅 Daily Topics
 
 - Day 1 : Python Crash Course : [Click here to access](https://github.com/Pavan-Aditya-Kumar-Gorrela/NLPSeries/tree/main/Day1)
+- Day 2 : Mastering Numpy : [Click here to access](https://github.com/Pavan-Aditya-Kumar-Gorrela/NLPSeries/tree/main/Day2)
 
 > 📌 Tip: Use the `notebook.ipynb` inside each folder to run the code.
 
