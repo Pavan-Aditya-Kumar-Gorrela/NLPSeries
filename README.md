@@ -44,8 +44,8 @@ This repository is a **daily hands-on guide** to mastering key NLP topics, tools
 
 ## 🔗 Useful Links
 
-- 📂 GitHub: [github.com/yourusername](https://github.com/Pavan-Aditya-Kumar-Gorrela)
-- ✍️ Medium Blogs: [medium.com/@yourusername](https://medium.com/@pavanadityakumarg2004)
+- 📂 GitHub: [github.com](https://github.com/Pavan-Aditya-Kumar-Gorrela)
+- ✍️ Medium Blogs: [medium.com](https://medium.com/@pavanadityakumarg2004)
 - 🧠 Hashtag: Follow [#30DaysOfNLP](https://www.linkedin.com/in/pavan-aditya-kumar-gorrela-857770271/) on LinkedIn
 
 ---
