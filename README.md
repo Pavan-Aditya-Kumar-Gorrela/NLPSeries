@@ -38,6 +38,7 @@ This repository is a **daily hands-on guide** to mastering key NLP topics, tools
 - Day 2 : Mastering Numpy : [Click here to access](https://github.com/Pavan-Aditya-Kumar-Gorrela/NLPSeries/tree/main/Day2)
 - Day 3 : Mastering Pandas : [Click here to access](https://github.com/Pavan-Aditya-Kumar-Gorrela/NLPSeries/blob/main/Day3)
 - Day 4 : Introduction to Spacy : [Click here to access](https://github.com/Pavan-Aditya-Kumar-Gorrela/NLPSeries/tree/main/Day4)
+- Day 5 : Advanced Spacy : [Click here to access](https://github.com/Pavan-Aditya-Kumar-Gorrela/NLPSeries/blob/main/Day5)
 
 > 📌 Tip: Use the `notebook.ipynb` inside each folder to run the code.
 
