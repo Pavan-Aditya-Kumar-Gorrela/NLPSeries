@@ -6,7 +6,7 @@ In this series, we explore the foundations and applications of **Natural Languag
 
 ## 📚 About This Series
 
-🧠 Natural Language Processing is at the heart of intelligent applications like chatbots, search engines, translators, and virtual assistants.  
+🧠 Natural Language Processing (NLP) is a field of Artificial Intelligence (AI) that focuses on enabling computers to understand, interpret, generate, and respond to human languages (like English, Hindi, etc.) in a meaningful way.
 This repository is a **daily hands-on guide** to mastering key NLP topics, tools, and techniques using Python and popular libraries like NLTK, spaCy, scikit-learn, Hugging Face Transformers, and more!
 
 📜 I earned my NLP Certification via **Udemy**, and this series is a curated, extended, and applied version of that learning experience.
